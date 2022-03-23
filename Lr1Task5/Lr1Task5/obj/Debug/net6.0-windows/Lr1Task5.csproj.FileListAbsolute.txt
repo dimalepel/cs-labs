@@ -1,0 +1,17 @@
+C:\Users\Vashkevich\source\repos\Lr1Task5\Lr1Task5\bin\Debug\net6.0-windows\Lr1Task5.exe
+C:\Users\Vashkevich\source\repos\Lr1Task5\Lr1Task5\bin\Debug\net6.0-windows\Lr1Task5.deps.json
+C:\Users\Vashkevich\source\repos\Lr1Task5\Lr1Task5\bin\Debug\net6.0-windows\Lr1Task5.runtimeconfig.json
+C:\Users\Vashkevich\source\repos\Lr1Task5\Lr1Task5\bin\Debug\net6.0-windows\Lr1Task5.dll
+C:\Users\Vashkevich\source\repos\Lr1Task5\Lr1Task5\bin\Debug\net6.0-windows\Lr1Task5.pdb
+C:\Users\Vashkevich\source\repos\Lr1Task5\Lr1Task5\obj\Debug\net6.0-windows\Lr1Task5.csproj.AssemblyReference.cache
+C:\Users\Vashkevich\source\repos\Lr1Task5\Lr1Task5\obj\Debug\net6.0-windows\Lr1Task5.Form1.resources
+C:\Users\Vashkevich\source\repos\Lr1Task5\Lr1Task5\obj\Debug\net6.0-windows\Lr1Task5.csproj.GenerateResource.cache
+C:\Users\Vashkevich\source\repos\Lr1Task5\Lr1Task5\obj\Debug\net6.0-windows\Lr1Task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vashkevich\source\repos\Lr1Task5\Lr1Task5\obj\Debug\net6.0-windows\Lr1Task5.AssemblyInfoInputs.cache
+C:\Users\Vashkevich\source\repos\Lr1Task5\Lr1Task5\obj\Debug\net6.0-windows\Lr1Task5.AssemblyInfo.cs
+C:\Users\Vashkevich\source\repos\Lr1Task5\Lr1Task5\obj\Debug\net6.0-windows\Lr1Task5.csproj.CoreCompileInputs.cache
+C:\Users\Vashkevich\source\repos\Lr1Task5\Lr1Task5\obj\Debug\net6.0-windows\Lr1Task5.dll
+C:\Users\Vashkevich\source\repos\Lr1Task5\Lr1Task5\obj\Debug\net6.0-windows\refint\Lr1Task5.dll
+C:\Users\Vashkevich\source\repos\Lr1Task5\Lr1Task5\obj\Debug\net6.0-windows\Lr1Task5.pdb
+C:\Users\Vashkevich\source\repos\Lr1Task5\Lr1Task5\obj\Debug\net6.0-windows\Lr1Task5.genruntimeconfig.cache
+C:\Users\Vashkevich\source\repos\Lr1Task5\Lr1Task5\obj\Debug\net6.0-windows\ref\Lr1Task5.dll

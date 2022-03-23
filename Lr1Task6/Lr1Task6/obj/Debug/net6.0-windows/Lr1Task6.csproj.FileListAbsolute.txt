@@ -1,0 +1,17 @@
+C:\Users\Vashkevich\source\repos\Lr1Task6\Lr1Task6\obj\Debug\net6.0-windows\Lr1Task6.csproj.AssemblyReference.cache
+C:\Users\Vashkevich\source\repos\Lr1Task6\Lr1Task6\obj\Debug\net6.0-windows\Lr1Task6.Form1.resources
+C:\Users\Vashkevich\source\repos\Lr1Task6\Lr1Task6\obj\Debug\net6.0-windows\Lr1Task6.csproj.GenerateResource.cache
+C:\Users\Vashkevich\source\repos\Lr1Task6\Lr1Task6\obj\Debug\net6.0-windows\Lr1Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vashkevich\source\repos\Lr1Task6\Lr1Task6\obj\Debug\net6.0-windows\Lr1Task6.AssemblyInfoInputs.cache
+C:\Users\Vashkevich\source\repos\Lr1Task6\Lr1Task6\obj\Debug\net6.0-windows\Lr1Task6.AssemblyInfo.cs
+C:\Users\Vashkevich\source\repos\Lr1Task6\Lr1Task6\obj\Debug\net6.0-windows\Lr1Task6.csproj.CoreCompileInputs.cache
+C:\Users\Vashkevich\source\repos\Lr1Task6\Lr1Task6\bin\Debug\net6.0-windows\Lr1Task6.exe
+C:\Users\Vashkevich\source\repos\Lr1Task6\Lr1Task6\bin\Debug\net6.0-windows\Lr1Task6.deps.json
+C:\Users\Vashkevich\source\repos\Lr1Task6\Lr1Task6\bin\Debug\net6.0-windows\Lr1Task6.runtimeconfig.json
+C:\Users\Vashkevich\source\repos\Lr1Task6\Lr1Task6\bin\Debug\net6.0-windows\Lr1Task6.dll
+C:\Users\Vashkevich\source\repos\Lr1Task6\Lr1Task6\bin\Debug\net6.0-windows\Lr1Task6.pdb
+C:\Users\Vashkevich\source\repos\Lr1Task6\Lr1Task6\obj\Debug\net6.0-windows\Lr1Task6.dll
+C:\Users\Vashkevich\source\repos\Lr1Task6\Lr1Task6\obj\Debug\net6.0-windows\refint\Lr1Task6.dll
+C:\Users\Vashkevich\source\repos\Lr1Task6\Lr1Task6\obj\Debug\net6.0-windows\Lr1Task6.pdb
+C:\Users\Vashkevich\source\repos\Lr1Task6\Lr1Task6\obj\Debug\net6.0-windows\Lr1Task6.genruntimeconfig.cache
+C:\Users\Vashkevich\source\repos\Lr1Task6\Lr1Task6\obj\Debug\net6.0-windows\ref\Lr1Task6.dll
