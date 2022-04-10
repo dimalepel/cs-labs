@@ -1,0 +1,17 @@
+D:\Education\CSLabs\Lr1Task7\Lr1Task7\bin\Debug\net6.0-windows\Lr1Task7.exe
+D:\Education\CSLabs\Lr1Task7\Lr1Task7\bin\Debug\net6.0-windows\Lr1Task7.deps.json
+D:\Education\CSLabs\Lr1Task7\Lr1Task7\bin\Debug\net6.0-windows\Lr1Task7.runtimeconfig.json
+D:\Education\CSLabs\Lr1Task7\Lr1Task7\bin\Debug\net6.0-windows\Lr1Task7.dll
+D:\Education\CSLabs\Lr1Task7\Lr1Task7\bin\Debug\net6.0-windows\Lr1Task7.pdb
+D:\Education\CSLabs\Lr1Task7\Lr1Task7\obj\Debug\net6.0-windows\Lr1Task7.csproj.AssemblyReference.cache
+D:\Education\CSLabs\Lr1Task7\Lr1Task7\obj\Debug\net6.0-windows\Lr1Task7.csproj.GenerateResource.cache
+D:\Education\CSLabs\Lr1Task7\Lr1Task7\obj\Debug\net6.0-windows\Lr1Task7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\CSLabs\Lr1Task7\Lr1Task7\obj\Debug\net6.0-windows\Lr1Task7.AssemblyInfoInputs.cache
+D:\Education\CSLabs\Lr1Task7\Lr1Task7\obj\Debug\net6.0-windows\Lr1Task7.AssemblyInfo.cs
+D:\Education\CSLabs\Lr1Task7\Lr1Task7\obj\Debug\net6.0-windows\Lr1Task7.csproj.CoreCompileInputs.cache
+D:\Education\CSLabs\Lr1Task7\Lr1Task7\obj\Debug\net6.0-windows\Lr1Task7.dll
+D:\Education\CSLabs\Lr1Task7\Lr1Task7\obj\Debug\net6.0-windows\refint\Lr1Task7.dll
+D:\Education\CSLabs\Lr1Task7\Lr1Task7\obj\Debug\net6.0-windows\Lr1Task7.pdb
+D:\Education\CSLabs\Lr1Task7\Lr1Task7\obj\Debug\net6.0-windows\Lr1Task7.genruntimeconfig.cache
+D:\Education\CSLabs\Lr1Task7\Lr1Task7\obj\Debug\net6.0-windows\ref\Lr1Task7.dll
+D:\Education\CSLabs\Lr1Task7\Lr1Task7\obj\Debug\net6.0-windows\Lr1Task7.Calculator.resources
